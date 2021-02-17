@@ -1,0 +1,42 @@
+#mainheader {
+    background-image:url(1b.webp) ;
+    height: fit-content;
+    background-size: cover;
+    text-align: right;
+    padding: 5%;
+    background-repeat: no-repeat;
+    width: auto;
+}
+
+    .button {
+        text-decoration: none;
+        color: white;
+        font-style: normal;
+        font-size: 15pt;
+        background-size: 100%;
+        background-color: black;
+        padding: 1%;
+      }
+      .button:hover {
+        color: rgb(0, 255, 0);
+        background-color: black;
+      }
+      body{
+background-image: Url(bu.jpg);
+color: white;
+font-size: x-large;
+font-style: normal;
+margin-left: 5%;
+margin-right: 5%;
+text-align:justify;
+      }
+
+#top{
+text-align: center;
+font-size: xx-large;
+font-family: cursive;
+
+
+}
+
+
